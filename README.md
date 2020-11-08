@@ -1,5 +1,7 @@
 # Stock Price Prediction
 
+![Stock Market](static/stock_market.jpg)
+
 The repository contains a solution for the price prediction problem for stock data. Using deep neural networks, a model was created that quite nicely predicts stock price data.
 
 ## Data
